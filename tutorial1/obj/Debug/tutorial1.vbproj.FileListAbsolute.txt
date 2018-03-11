@@ -1,0 +1,12 @@
+C:\Users\Abby\source\repos\tutorial1\tutorial1\bin\Debug\tutorial1.exe.config
+C:\Users\Abby\source\repos\tutorial1\tutorial1\bin\Debug\tutorial1.exe
+C:\Users\Abby\source\repos\tutorial1\tutorial1\bin\Debug\tutorial1.pdb
+C:\Users\Abby\source\repos\tutorial1\tutorial1\bin\Debug\tutorial1.xml
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.vbprojResolveAssemblyReference.cache
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.Basics.resources
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.Resources.resources
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.vbproj.GenerateResource.cache
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.vbproj.CoreCompileInputs.cache
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.exe
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.xml
+C:\Users\Abby\source\repos\tutorial1\tutorial1\obj\Debug\tutorial1.pdb
